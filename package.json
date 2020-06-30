@@ -1,0 +1,29 @@
+{
+  "name": "hesk",
+  "version": "0.0.1",
+  "description": "A database wrapper for HESK",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdPlaysGames/hesk.git"
+  },
+  "keywords": [
+    "wrapper"
+  ],
+  "author": "Nerd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NerdPlaysGames/hesk/issues"
+  },
+  "homepage": "https://github.com/NerdPlaysGames/hesk#readme",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-almeida": "^1.0.7"
+  }
+}
