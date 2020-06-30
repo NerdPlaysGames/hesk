@@ -13,6 +13,7 @@
   "keywords": [
     "wrapper"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Nerd",
   "license": "MIT",
   "bugs": {
